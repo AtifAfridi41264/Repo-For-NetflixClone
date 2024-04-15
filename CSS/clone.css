@@ -1,0 +1,58 @@
+
+body{
+    background-color: black;
+}
+
+#forFirstImage{
+    border: 1px hidden;
+    height: 620px;
+    background-size: cover;
+     
+}
+
+.forNav{
+    color: white;
+    font-weight: bold;
+}
+
+#blackAdam{
+    color: white;
+    font-weight: bold;
+    margin-top: 20px;
+    font-size: 100px;
+}
+
+.forTrendText{
+     color: white;
+     font-size: 50px;
+}
+
+#forText{
+    color: white;
+     font-size: 20px;
+}
+
+.btn1{
+    height: 40px;
+    width: 120px;
+    border: 1px skyblue;
+    border-radius: 10px;
+    background-color: gainsboro;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.btn2{
+    height: 40px;
+    width: 120px;
+    border: 1px skyblue;
+    border-radius: 10px;
+    background-color: gainsboro;
+    font-weight: bold;
+}
+
+.headingForPic{
+    color: white;
+}
+
+ 
